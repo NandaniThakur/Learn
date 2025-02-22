@@ -37,6 +37,7 @@ while Traials>0:
 
         if Traials ==0:
             print(f"you loose, the word was{selected}")
+            print("beter luvj net time")
 
 
 
